@@ -1,0 +1,34 @@
+{
+  "name": "multi-retailer-price-checker",
+  "version": "1.0.0",
+  "description": "MVP price alert system for tracking products across multiple retailers (Amazon, Best Buy, Walmart, Costco, GameStop, Micro Center, Target)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check": "node src/check-prices.js",
+    "add": "node src/cli.js add",
+    "append": "node src/cli.js append",
+    "list": "node src/cli.js list",
+    "remove": "node src/cli.js remove"
+  },
+  "keywords": [
+    "price-checker",
+    "price-tracker",
+    "alerts",
+    "amazon",
+    "bestbuy",
+    "walmart",
+    "costco",
+    "gamestop",
+    "microcenter",
+    "target",
+    "multi-retailer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

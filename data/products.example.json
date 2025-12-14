@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1734188400000",
+    "name": "Apple AirPods Pro 3",
+    "targetPriceCents": 19900,
+    "createdAt": "2025-12-14T10:00:00.000Z",
+    "triggered": false,
+    "retailers": [
+      {
+        "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/",
+        "retailer": "Amazon",
+        "currentPriceCents": 24999,
+        "lastChecked": "2025-12-14T15:30:00.000Z"
+      },
+      {
+        "url": "https://www.bestbuy.com/product/apple-airpods-pro-3-wireless-active-noise-cancelling-earbuds-with-heart-rate-sensing-feature-white/6376563",
+        "retailer": "Best Buy",
+        "currentPriceCents": 23999,
+        "lastChecked": "2025-12-14T15:30:05.000Z"
+      },
+      {
+        "url": "https://www.walmart.com/ip/AirPods-nbsp-Pro-nbsp-3/17835006350",
+        "retailer": "Walmart",
+        "currentPriceCents": 24500,
+        "lastChecked": "2025-12-14T15:30:10.000Z"
+      },
+      {
+        "url": "https://www.costco.com/p/-/apple-airpods-pro-3-wireless-earbuds-active-noise-cancellation-hearing-aid-feature-heart-rate-sensing/4000404510",
+        "retailer": "Costco",
+        "currentPriceCents": 22999,
+        "lastChecked": "2025-12-14T15:30:15.000Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="price-checker logo">
+  <defs>
+    <style>
+      .tag { fill: #ff6a00; }
+      .mark { fill: none; stroke: #ffffff; stroke-width: 36; stroke-linecap: round; stroke-linejoin: round; }
+      .text { fill: #ffffff; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"; font-weight: 800; }
+    </style>
+  </defs>
+
+  <!-- Background (transparent).  Add a rect if you want white. -->
+  <!-- <rect width="512" height="512" fill="#ffffff"/> -->
+
+  <!-- Tag shape -->
+  <path class="tag" d="
+    M256 64
+    C266 64 276 68 283 75
+    L372 164
+    C380 172 384 182 384 192
+    L384 384
+    C384 410 362 432 336 432
+    L176 432
+    C150 432 128 410 128 384
+    L128 192
+    C128 182 132 172 140 164
+    L229 75
+    C236 68 246 64 256 64
+    Z
+  "/>
+
+  <!-- Tag hole -->
+  <circle cx="256" cy="150" r="22" fill="#ffffff"/>
+
+  <!-- "pc" -->
+  <text class="text" x="256" y="250" font-size="150" text-anchor="middle" dominant-baseline="middle">pc</text>
+
+  <!-- Checkmark -->
+  <path class="mark" d="M198 364 L236 402 L318 320" />
+</svg>

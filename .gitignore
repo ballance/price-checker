@@ -1,0 +1,7 @@
+node_modules/
+data/products.json
+data/alerts.json
+*.log
+.DS_Store
+debug-*.png
+logs/

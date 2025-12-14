@@ -4,6 +4,12 @@
 
 # Multi-Retailer Price Checker
 
+<p align="center">
+  <a href="https://github.com/ballance/price-checker/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg" alt="Node.js Version"></a>
+  <a href="https://github.com/ballance/price-checker/stargazers"><img src="https://img.shields.io/github/stars/ballance/price-checker?style=social" alt="GitHub stars"></a>
+</p>
+
 MVP price alert system for tracking products across multiple major retailers. Inspired by CamelCamelCamel but works across multiple retailers.
 
 **🚀 New to this?** Check out the [Quick Start Guide (QUICKSTART.md)](QUICKSTART.md) for a beginner-friendly setup tutorial!
